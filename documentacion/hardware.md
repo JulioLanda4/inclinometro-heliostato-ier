@@ -51,13 +51,15 @@ El repositorio incluye [modelos de carcasa en STEP y STL](../hardware/carcasa/RE
 
 ## Registro fotográfico
 
+![Inclinómetro completamente armado con la pantalla encendida](../hardware/fotografias/inclinometro.jpg)
+
 ![Montaje de la placa y el sensor](../hardware/fotografias/montaje-superior.jpg)
 
 ![Cableado bajo la TTGO](../hardware/fotografias/conexionado-ttgo.jpg)
 
 ![Batería, sensor y cableado interior](../hardware/fotografias/bateria-y-sensor.jpg)
 
-Estas fotografías son evidencia de ensamblaje, **no** constituyen todavía un esquema verificable terminal por terminal.
+La vista exterior documenta el equipo cerrado y armado. Las vistas interiores son evidencia de ensamblaje, **no** constituyen todavía un esquema verificable terminal por terminal.
 
 ## Entregables pendientes
 
@@ -66,4 +68,4 @@ Estas fotografías son evidencia de ensamblaje, **no** constituyen todavía un e
 - Identificación del tipo, paso y orden real del conector JST de seis posiciones.
 - Confirmación de cómo quedan conectados la batería, el reinicio y la carga.
 - Verificación de permisos de los enlaces al diseño fuente de Onshape, cuyos STEP y STL ya están incorporados.
-- Fotografías del dispositivo cerrado e instalado sobre la superficie de medición.
+- Fotografía del dispositivo instalado sobre la superficie de medición.

@@ -4,9 +4,9 @@ Instrumento experimental portátil para medir la **inclinación física del plan
 
 > **Estado:** prototipo operativo en evaluación; faltan pruebas de validación metrológica. Este repositorio contiene una **copia de referencia del firmware preparado en la conversación de desarrollo**, que debe cotejarse con el código efectivamente cargado y probado en la TTGO antes de reemplazar ningún archivo local.
 
-![Vista superior del prototipo dentro de su carcasa](hardware/fotografias/montaje-superior.jpg)
+![Inclinómetro completamente armado con la pantalla encendida](hardware/fotografias/inclinometro.jpg)
 
-Las [fotografías de ensamblaje](hardware/fotografias/README.md) muestran la placa, el sensor, la batería y parte del cableado. No sustituyen la verificación eléctrica de las conexiones.
+Las [fotografías del dispositivo y su ensamblaje](hardware/fotografias/README.md) incluyen vistas del equipo terminado y de sus componentes internos. No sustituyen la verificación eléctrica de las conexiones.
 
 ## Convención angular
 

@@ -2,6 +2,12 @@
 
 Los cambios anteriores a este primer registro se reconstruyeron desde conversaciones y prototipos, no desde commits históricos.
 
+## Sin versión publicada — fotografía del equipo armado (2026-11-24)
+
+- Incorporada `hardware/fotografias/inclinometro.jpg`, vista exterior del instrumento completamente armado con la pantalla encendida.
+- Eliminados los metadatos EXIF de la imagen antes de integrarla.
+- Actualizados el README principal, el índice fotográfico y la documentación de hardware.
+
 ## Sin versión publicada — revisión documental (2026-11-23)
 
 - Incorporación de tres fotografías nuevas del montaje, cableado y batería.
