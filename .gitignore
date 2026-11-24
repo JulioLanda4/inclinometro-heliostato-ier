@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.piohome/
+.clang_complete
+.gcc-flags.json
+
+# VS Code (mantener opcionalmente configuraciones compartidas)
+.vscode/*
+!.vscode/extensions.json
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Archivos de respaldo y secretos
+*.bak
+*.tmp
+.env
+.env.*
+secrets.h
